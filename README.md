@@ -26,3 +26,5 @@ an efficient token bucket implementation
 - [juju/ratelimit: Efficient token-bucket-based rate limiter package.](https://github.com/juju/ratelimit)
 - [bsm/ratelimit: Simple, thread-safe Go rate-limiter](https://github.com/bsm/ratelimit)
 - [yangwenmai/ratelimit: 基于令牌桶算法和漏桶算法来实现的限速限流，Golang实现。](https://github.com/yangwenmai/ratelimit)
+- [rate - GoDoc](https://godoc.org/golang.org/x/time/rate#pkg-constants)
+- [bsm/ratelimit: Simple, thread-safe Go rate-limiter](https://github.com/bsm/ratelimit)
